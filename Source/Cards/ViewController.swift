@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         UIImage(named: "background")!,
         UIImage(named: "flappy")!,
         UIImage(named: "flBackground")!,
-        UIImage(named: "icon")!,
+        UIImage(named: "Icon")!,
         UIImage(named: "mvBackground")!
         
     ]
